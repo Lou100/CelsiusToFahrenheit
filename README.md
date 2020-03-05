@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-This CelsiusToFahrenheit App allows the user to convert celsius to fahrenheit. in an easy simplicity way.
+This CelsiusToFahrenheit App allows the user to convert celsius to fahrenheit in an easy simplicity way.
 
 # Getting Started
 
